@@ -1,4 +1,9 @@
-openpyxl
 streamlit
 pandas
 openpyxl
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+
